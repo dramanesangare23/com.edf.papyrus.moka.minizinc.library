@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_YdRKsAntEeWNJr2mZCippw" name="Minizinc Library">
+  <packagedElement xmi:type="uml:OpaqueBehavior" xmi:id="_6ObioAnuEeWNJr2mZCippw" name="Affectation">
+    <ownedParameter xmi:type="uml:Parameter" xmi:id="_SlPw0AuBEeWxAIYDDyyLTg" name="Parameter1">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_ieSdUDXXEeWl1L9H4KVI8Q"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_ie79kDXXEeWl1L9H4KVI8Q" value="*"/>
+    </ownedParameter>
+    <ownedParameter xmi:type="uml:Parameter" xmi:id="_RHq4MAuEEeWxAIYDDyyLTg" name="Parameter2">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_lEAiYDXXEeWl1L9H4KVI8Q"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_lEC-oDXXEeWl1L9H4KVI8Q" value="*"/>
+    </ownedParameter>
+    <ownedParameter xmi:type="uml:Parameter" xmi:id="_VEDVkAuBEeWxAIYDDyyLTg" name="Parameter3" direction="return"/>
+  </packagedElement>
+</uml:Model>
